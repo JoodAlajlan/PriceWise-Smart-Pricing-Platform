@@ -10,11 +10,13 @@ Note: Source code is private for university compliance. Technical details & arch
 * Database: PostgreSQL
 * Testing: JUnit 5, Playwright (E2E), Jasmine & Karma
 * DevOps: GitHub Actions (CI/CD)
+
 🚀 Key Highlights
 * Full-Stack Integration: Built dynamic RESTful APIs and connected them to an Angular frontend with real-time data persistence.
 * High Reliability: Implemented comprehensive Unit, Integration, and E2E testing to ensure 100% workflow stability.
 * Performance & Robustness: Successfully performed Stress Testing (50 concurrent connections) and implemented graceful error handling for invalid inputs.
 * Security: Integrated GitHub Actions for automated security scanning and CI/CD pipelines.
+
 📂 Core Features
 * Advanced Search & Filtering (Movies & Stars).
 * Session-based Shopping Cart & Secure Checkout.
