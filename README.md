@@ -6,8 +6,8 @@ Note: Source code is private for university compliance. Technical details & arch
 🛠️ Tech Stack
 
 - Frontend: React.js
-- Backend: Node.js / Express.js
-- Database: Supabase / PostgreSQL
+- Backend: Node.js 
+- Database: Supabase 
 - AI: Gemini AI API
 - Version Control: GitHub
 
