@@ -1,23 +1,37 @@
-🎬 IMDb Movie Rental System
-Full-Stack Web Application
-A robust movie rental platform built with a Test-Driven Development (TDD) approach. This project showcases a full integration between a modern frontend, a secure backend, and a relational database.
+💸 PriceWise Full-Stack Web Application  
+A smart pricing decision support platform designed to help business owners make better pricing decisions using cost data, product details, seasonal factors, market pricing data, pricing rules, and AI-based recommendations.
 
 Note: Source code is private for university compliance. Technical details & architecture are highlighted below.
 
 🛠️ Tech Stack
-* Frontend: Angular (TypeScript)
-* Backend: Spring Boot (Java 21)
-* Database: PostgreSQL
-* Testing: JUnit 5, Playwright (E2E), Jasmine & Karma
-* DevOps: GitHub Actions (CI/CD)
+
+- Frontend: React.js
+- Backend: Node.js / Express.js
+- Database: Supabase / PostgreSQL
+- AI: Gemini AI API
+- Version Control: GitHub
 
 🚀 Key Highlights
-* Full-Stack Integration: Built dynamic RESTful APIs and connected them to an Angular frontend with real-time data persistence.
-* High Reliability: Implemented comprehensive Unit, Integration, and E2E testing to ensure 100% workflow stability.
-* Performance & Robustness: Successfully performed Stress Testing (50 concurrent connections) and implemented graceful error handling for invalid inputs.
-* Security: Integrated GitHub Actions for automated security scanning and CI/CD pipelines.
+
+- Full-Stack Integration: Built a web-based system that connects the frontend, backend, and database to manage pricing-related business data.
+
+- AI-Based Recommendations: Integrated Gemini AI API to support enhanced pricing recommendations.
+
+- Cost-Based Pricing Support: Allows business owners to manage fixed and variable costs that affect product pricing.
+
+- Seasonal Pricing: Supports season and peak-period management to help businesses adjust prices based on demand changes.
+
+- Pricing Rules Management: Enables business owners to create and manage pricing rules used in pricing decisions.
+
+- Market Price Support: Uses market pricing data to help compare prices and support competitive pricing.
 
 📂 Core Features
-* Advanced Search & Filtering (Movies & Stars).
-* Session-based Shopping Cart & Secure Checkout.
-* Responsive UI with optimized user navigation.
+
+- User login using valid credentials.
+- Fixed and variable cost management.
+- Product details management.
+- Season management.
+- Pricing rule management.
+- AI-supported price recommendation.
+- Market pricing data support.
+- Report viewing and exporting.
