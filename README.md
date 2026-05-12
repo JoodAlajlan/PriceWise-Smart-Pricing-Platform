@@ -1,4 +1,4 @@
-💸 PriceWise Full-Stack Web Application  
+# PriceWise Full-Stack Web Application  
 A smart pricing decision support platform designed to help business owners make better pricing decisions using cost data, product details, seasonal factors, market pricing data, pricing rules, and AI-based recommendations.
 
 Note: Source code is private for university compliance. Technical details & architecture are highlighted below.
